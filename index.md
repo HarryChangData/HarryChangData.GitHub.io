@@ -5,7 +5,7 @@
 ### Learn About My Projects
 
 #### [DoorDash Excel Project](https://www.linkedin.com/pulse/unveiling-insights-comprehensive-analysis-food-delivery-harry-chang-x937c/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="DoorDash Cover.png"/>
 Tolulope is the best
 
 ---
