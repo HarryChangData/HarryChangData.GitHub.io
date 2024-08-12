@@ -6,7 +6,7 @@
 
 #### [DoorDash Excel Project](https://www.linkedin.com/pulse/unveiling-insights-comprehensive-analysis-food-delivery-harry-chang-x937c/)
 <img src="images/DoorDash Cover.png"/>
-Tolulope is the best
+Utilizing a dataset from Kaggle provided by iFood, the Brazilian counterpart to DoorDash, and powered by Excel, I meticulously cleaned up and analyzed over 2000 entries. 
 
 ---
 #### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
